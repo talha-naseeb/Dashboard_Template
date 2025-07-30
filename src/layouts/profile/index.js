@@ -75,17 +75,17 @@ function Overview() {
                 }}
                 social={[
                   {
-                    link: "https://www.facebook.com/CreativeTim/",
-                    icon: <FacebookIcon />,
-                    color: "facebook",
-                  },
-                  {
-                    link: "https://twitter.com/creativetim",
-                    icon: <TwitterIcon />,
-                    color: "twitter",
-                  },
-                  {
-                    link: "https://www.instagram.com/creativetimofficial/",
+                            link: "#",
+        icon: <FacebookIcon />,
+        color: "facebook",
+      },
+      {
+        link: "#",
+        icon: <TwitterIcon />,
+        color: "twitter",
+      },
+      {
+        link: "#",
                     icon: <InstagramIcon />,
                     color: "instagram",
                   },

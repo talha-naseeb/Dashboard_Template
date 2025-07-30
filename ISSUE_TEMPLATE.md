@@ -1,13 +1,26 @@
-<!--
- IMPORTANT: Please use the following link to create a new issue:
+# Issue Template
 
-  https://www.creative-tim.com/new-issue/material-dashboard-react
+## Bug Report / Feature Request
 
-**If your issue was not created using the app above, it will be closed immediately.**
--->
+### Description
+Please provide a clear and concise description of the issue or feature request.
 
-<!--
-Love Creative Tim? Do you need Angular, React, Vuejs or HTML? You can visit:
-👉  https://www.creative-tim.com/bundles
-👉  https://www.creative-tim.com
--->
+### Steps to Reproduce (for bugs)
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+### Expected Behavior
+A clear and concise description of what you expected to happen.
+
+### Screenshots
+If applicable, add screenshots to help explain your problem.
+
+### Environment
+- OS: [e.g. Windows, macOS, Linux]
+- Browser: [e.g. Chrome, Firefox, Safari]
+- Version: [e.g. 22]
+
+### Additional Context
+Add any other context about the problem here.
