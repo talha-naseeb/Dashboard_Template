@@ -316,13 +316,7 @@ function Configurator() {
 
           <MDBox display="flex" justifyContent="center">
             <MDBox mr={1.5}>
-              <MDButton
-                component={Link}
-                href="#"
-                target="_blank"
-                rel="noreferrer"
-                color="dark"
-              >
+              <MDButton component={Link} href="#" target="_blank" rel="noreferrer" color="dark">
                 <TwitterIcon />
                 &nbsp; Tweet
               </MDButton>

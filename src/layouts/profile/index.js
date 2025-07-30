@@ -75,17 +75,17 @@ function Overview() {
                 }}
                 social={[
                   {
-                            link: "#",
-        icon: <FacebookIcon />,
-        color: "facebook",
-      },
-      {
-        link: "#",
-        icon: <TwitterIcon />,
-        color: "twitter",
-      },
-      {
-        link: "#",
+                    link: "#",
+                    icon: <FacebookIcon />,
+                    color: "facebook",
+                  },
+                  {
+                    link: "#",
+                    icon: <TwitterIcon />,
+                    color: "twitter",
+                  },
+                  {
+                    link: "#",
                     icon: <InstagramIcon />,
                     color: "instagram",
                   },
